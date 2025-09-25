@@ -1,4 +1,4 @@
-# FUTURE-INTERNS-TASK-1
+# FUTURE_BC_Task01
 # Task 1 – Blockchain Basics
 
 ## Theory  
